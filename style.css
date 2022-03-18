@@ -13,7 +13,7 @@
 .comodo1, .comodo2, .comodo3{
     background-color: orange;
     display: grid;
-    justify-items: center;
+    justify-items: left;
     align-items: center;
 }
 .red{
